@@ -1,0 +1,63 @@
+{
+  "source": "cibanna-gumbo-v8-proof.mp4",
+  "durationSec": 72,
+  "master": "master.m3u8",
+  "renditions": [
+    {
+      "name": "720p",
+      "width": 1280,
+      "height": 720,
+      "targetVideoKbps": 1600,
+      "audioKbps": 96,
+      "measuredKbps": 1713,
+      "bytes": 15477798,
+      "playlist": "720p/index.m3u8",
+      "mp4": "720p.mp4"
+    },
+    {
+      "name": "480p",
+      "width": 854,
+      "height": 480,
+      "targetVideoKbps": 800,
+      "audioKbps": 64,
+      "measuredKbps": 871,
+      "bytes": 7865155,
+      "playlist": "480p/index.m3u8",
+      "mp4": "480p.mp4"
+    },
+    {
+      "name": "360p",
+      "width": 640,
+      "height": 360,
+      "targetVideoKbps": 420,
+      "audioKbps": 48,
+      "measuredKbps": 478,
+      "bytes": 4321133,
+      "playlist": "360p/index.m3u8",
+      "mp4": "360p.mp4"
+    },
+    {
+      "name": "240p",
+      "width": 426,
+      "height": 240,
+      "targetVideoKbps": 220,
+      "audioKbps": 40,
+      "measuredKbps": 271,
+      "bytes": 2449232,
+      "playlist": "240p/index.m3u8",
+      "mp4": "240p.mp4"
+    },
+    {
+      "name": "144p",
+      "width": 256,
+      "height": 144,
+      "targetVideoKbps": 110,
+      "audioKbps": 32,
+      "measuredKbps": 152,
+      "bytes": 1370817,
+      "playlist": "144p/index.m3u8",
+      "mp4": "144p.mp4"
+    }
+  ],
+  "madeAt": "2026-09-27T04:01:07.418Z"
+}
